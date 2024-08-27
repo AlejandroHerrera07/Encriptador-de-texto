@@ -6,6 +6,8 @@ Tener en cuenta que esta aplicación admite unicamente texto conformado por letr
 - Al utililzar el botón "Desencriptar" el texto usará las reglas de encriptación en sentido contrario para volver al texto inicial.
 
 Este proyecto fue realizado con las tecnologías:
+
+
 ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
